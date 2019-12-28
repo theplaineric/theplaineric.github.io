@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Backwater Taffy
+description: Hyper-threaded thoughts with speculative execution
+meta_description: "Backwater Taffy - usually on clearance"
 
 markdown: kramdown
 highlighter: pygments
@@ -12,5 +12,5 @@ google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'Backwater Taffy'
+author:         'Eric Z'
